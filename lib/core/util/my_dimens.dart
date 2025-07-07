@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:pleasure_app/core/util/my_color.dart';
-import 'package:pleasure_app/core/util/my_image.dart';
 
 class MyDimens {
   static const cmDivider = Divider(color: MyColor.inActiveColor, thickness: .5);
